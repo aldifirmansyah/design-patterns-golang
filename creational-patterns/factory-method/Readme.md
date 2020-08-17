@@ -6,3 +6,4 @@
 notes to myself:
 - Concrete Products has parent class which is gun.
 - No Creator, just the Concrete Creator. No default implementation (return error if the type doesn't match).
+- makeGun function is a parameterized factory methods.
