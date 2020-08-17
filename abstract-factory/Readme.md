@@ -1,0 +1,5 @@
+- Abstract Factory (iSportsFactory): Declares an interface for operations that create abstract product objects.
+- Concrete Factory (adidas, nike): Implements the operations to create concrete product objects.
+- Abstract Product (iShoe, iShort): Declares an interface for a type of product object.
+- Concrete Product (adidasShoe, adidasShort, nikeShoe, nikeShort): Defines a prodct object to be created by the corresponding concrete factory.;Implements the Abstract Product interface.
+- Client (main): Uses only interfaces declared by Abstract Factory and Abstract Product classes.
