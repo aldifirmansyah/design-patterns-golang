@@ -1,0 +1,3 @@
+- Prototype (inode): Declares an interface for cloning itself.
+- Concrete Prototype (file, folder): Implements an operation for cloning itself.
+- Client (main): Creates a new object by asking a prototype to clone itself.
