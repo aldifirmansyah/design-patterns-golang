@@ -1,0 +1,2 @@
+- This repo implements all design patterns based on the book Design Patterns Elements of Reusable Object-Oriented Software by Grady Booch.
+- These design patterns were implemented in Golang. All the examples referencing from https://golangbyexample.com/all-design-patterns-golang/ .
