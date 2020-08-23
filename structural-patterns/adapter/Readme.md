@@ -1,0 +1,4 @@
+- Target (computer's insertInSquarePort): Defines the domain-specific interface that Client uses.
+- Client (insertSquareUsbInComputer): Collaborates with objects conforming to the Target interface.
+- Adaptee (windows's circlePort): Defines an existing interface that needs adapting.
+- Adapter (windowsAdapter): Adapts the interface of Adaptee to the Target interface.
